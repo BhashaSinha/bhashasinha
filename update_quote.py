@@ -1,7 +1,8 @@
 import random
 from datetime import datetime
 
-# List of AI quotes
+# List of AI quotes --
+#List
 quotes = [
     "Artificial intelligence is the new electricity.",
     "The future is AI-powered.",
