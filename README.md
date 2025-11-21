@@ -1,4 +1,4 @@
 ## 🧠 AI Quote of the Day
 <!--QUOTE_START-->
-AI will amplify human potential.
+The best way to predict the future is to build it — with AI.
 <!--QUOTE_END-->
