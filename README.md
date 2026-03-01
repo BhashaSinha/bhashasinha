@@ -1,4 +1,4 @@
 ## 🧠 AI Quote of the Day
 <!--QUOTE_START-->
-AI will amplify human potential.
+The future is AI-powered.
 <!--QUOTE_END-->
