@@ -1,4 +1,4 @@
 ## 🧠 AI Quote of the Day
 <!--QUOTE_START-->
-Artificial intelligence is the new electricity.
+The future is AI-powered.
 <!--QUOTE_END-->
