@@ -1,4 +1,4 @@
 ## 🧠 AI Quote of the Day
 <!--QUOTE_START-->
-Machines are learning. Fast.
+AI will amplify human potential.
 <!--QUOTE_END-->
